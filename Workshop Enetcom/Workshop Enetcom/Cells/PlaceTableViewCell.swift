@@ -17,6 +17,7 @@ class PlaceTableViewCell: UITableViewCell {
     var myVar : String?
     
     override func awakeFromNib() {
+        
         super.awakeFromNib()
         // Initialization code
         
